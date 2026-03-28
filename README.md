@@ -6,9 +6,8 @@
 
 <p align="center"><img src="https://img.shields.io/github/license/{xcyberspy}/{avastlicense}.svg" alt="shields"></p>
 
-<h2>🚀 Demo</h2>
+<h1>🚀</h1>
 
-[here](here )
 
 <h2>Project Screenshots:</h2>
 
@@ -18,25 +17,22 @@
 
 <p>1. clone it</p>
 
-```
-git clone https://github.com/xcyberspy/avastlicense.git
-```
+git clone https://github.com/xcyberspy/Avast-License
 
 <p>2. Go to ☰ Menu ▸ Enter activation code</p>
 
+
 <p>3. Click Use a license file</p>
+
 
 <p>4. Locate the license file on your PC and click Open.</p>
 
+
 <p>5. Check your subscription details then click Continue.</p>
 
-```
+
 Just Wait Few Minutes AND DONE ✅
-```
 
-<h2>🛡️ License:</h2>
-
-This project is licensed under the This project is licensed under the This project is licensed under the \[xcyberspy\]
 
 <h2>💖Like my work?</h2>
 
